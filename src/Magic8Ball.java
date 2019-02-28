@@ -27,13 +27,13 @@ public class Magic8Ball {
             System.out.println("Your day will be filled with joy."); //Positive 2
         }
         if (number > 30 && number <= 40) {
-            System.out.println("Your day is not looking good."); //Negative 2
+            System.out.println("Wow I wish you could avoid what is going to happen to you today."); //Negative 2
         }
         if (number > 40 && number <= 50) {
             System.out.println("Your day just plain sucks dude..."); //Negative 3
         }
         if (number > 50 && number <= 60) {
-            System.out.println("Wow today is going to be awesome for you."); //Positive 3
+            System.out.println("You won a contest! Congrats on the new Tesla, good luck charging it."); //Positive 3
         }
         if (number > 60 && number <= 70) {
             System.out.println("All of your tires are going to go flat and you'll be late to school/work"); //Negative 4
